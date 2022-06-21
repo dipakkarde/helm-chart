@@ -38,7 +38,7 @@ entries:
     name: psql-sed
     type: application
     urls:
-    - https://dperaza4dustbit.github.io/helm-chart/psql-sed-1.0.0.tgz
+    - https://github.com/dipakkarde/helm-chart/blob/main/psql-sed-1.0.0.tgz
     version: 1.0.0
   psql-service:
   - annotations:
